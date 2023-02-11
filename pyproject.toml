@@ -16,7 +16,7 @@ black = "^22.3.0"
 flake8 = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
-ipython = "^8.2.0"
+ipython = "^8.10.0"
 
 [tool.poetry.scripts]
 beerlog = "beerlog.__main__:main"
